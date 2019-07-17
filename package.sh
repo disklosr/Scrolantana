@@ -1,0 +1,1 @@
+cd src && zip -r -9 ../dist/scrollgoose.zip ./
